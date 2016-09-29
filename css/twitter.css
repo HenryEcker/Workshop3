@@ -1,0 +1,44 @@
+.twitter-search {
+    border-radius: 33px;
+    border-right: 0 solid transparent;
+}
+
+.twitter-search-button {
+    border-radius: 33px;
+    border-left: 0 solid transparent;
+}
+
+.navbar-left li {
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
+.twitter-main-panel {
+    padding-top: 80px;
+}
+
+.twitter-tweet-nav li {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.twitter-handle {
+    padding-top: 1px;
+    padding-right: 0px;
+}
+
+.twitter-tweet-nav-footer button {
+    border: 0px;
+    color: grey;
+}
+
+.twitter-tweet-nav-footer li {
+    padding-bottom: 1px;
+}
+
+.twitter-reply {
+    height: 100%;
+    width: 550px;
+
+}
